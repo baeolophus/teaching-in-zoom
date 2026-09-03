@@ -1,0 +1,20 @@
+---
+title: "Teaching Codealongs in Zoom"
+author: "C. M. Curry"
+format: html
+---
+
+## Know your tools (carpentries)
+
+
+Understand Zoom and [practice ahead of time](https://carpentries.github.io/instructor-training-bonus-modules/01-online-workshops-module-1.html)
+
+
+## More resources
+
+[covid resources](https://docs.carpentries.org/resources/workshops/resources_for_online_workshops.html)
+[online tips](https://carpentries.org/blog/2022/03/online-teaching-kcl/)
+[community tips for online](https://carpentries.org/blog/2020/03/tips-for-teaching-online/)
+[harvard zoom tutorial](https://teachremotely.harvard.edu/zoom-video-tutorials)
+[zoom pedagogy](https://www.cmu.edu/canvas/teachingonline/zoom/zoompedagogy.html)
+[how to teach tech together online notes](https://teachtogether.tech/en/index.html#s:finale) and [detailed online](https://teachtogether.tech/en/index.html#s:online)
