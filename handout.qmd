@@ -48,14 +48,13 @@ Understand Zoom and [practice ahead of time](https://carpentries.github.io/instr
 
 ## Raise hands
 - Describe raising hands
-- Describe emojis
+- Stays visible to instructor, unlike "reactions" emojis
 
 ## Summary
 
-- Much more frequent check-ins
-- Use hand raise reaction for stickies
+- Have a separate screen
+- Much more frequent check-ins, use hand raise
 - Have a helper if you have more than half a dozen people
-- Don't try to re-create in-person
 
 ## More resources
 
