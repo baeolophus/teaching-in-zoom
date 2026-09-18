@@ -6,9 +6,56 @@ format: html
 
 ## Know your tools (carpentries)
 
-
 Understand Zoom and [practice ahead of time](https://carpentries.github.io/instructor-training-bonus-modules/01-online-workshops-module-1.html)
 
+## Screen and curriculum organizing
+- Second monitor, hypothes.is annotations
+- Tablet (talk to LTP if you are in library?, check out from desk if not)
+- Paper versions (make sure your copy is up to date)
+
+## Communicating with the learners
+- Etherpad
+- Zoom chat
+- Zoom polls
+- Hand raise
+
+## You can't rely on watching everyone's faces
+
+- Ask defined questions that can be answered in chat or with raised hands (yes or no)
+  - Not great
+    - "Did you understand?"
+    - "How's it working?"
+  - Better
+    - "Paste code to answer this challenge" (chat)
+    - "Raise your hand when you've completed the highlighted code" (sticky analogs)
+    - "Paste your error and code into the chat if it doesn't work for you"
+- Ask more often than in person, because it's harder to catch people up individually
+
+## Avoid breakout rooms unless you're having a discussion
+
+- Ensure you have at least one helper who can troubleshoot via chat
+- Ask permission before having someone with difficulties share their screen
+- Walk them through it slowly, do not take over
+- Thank them for helping and re-iterate how everyone has similar problems in every workshop
+
+## Practice changing host
+
+- Make a poll
+- Lower hands
+- Assign people to breakout room
+- See who's messaging you private vs everyone
+
+
+## Raise hands
+- Describe raising hands
+- Describe emojis
+
+## Summary
+
+- Much more frequent check-ins
+- Use hand raise reaction for stickies
+- Have a helper if you have more than half a dozen people
+- Don't try to re-create in-person
 
 ## More resources
 
