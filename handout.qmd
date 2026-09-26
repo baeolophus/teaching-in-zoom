@@ -1,7 +1,7 @@
 ---
 title: "Teaching Codealongs in Zoom"
 author: "C. M. Curry"
-format: html
+format: docx
 ---
 
 ## Why online?
@@ -56,6 +56,18 @@ format: html
 - Zoom chat, polls
 - Hand raise - sticky notes!!
 
+## Sticky notes = "raise hand"
+
+![What the react button looks like for non-hosts on Mac OS in Zoom](img/macZoomReactParticipant.png){fig-alt="Zoom bar on Mac, showing buttons, from left to right: audio, video, participants, chat, react (a heart outline), share, more, and leave"}
+
+![What the react button looks like for non-hosts on Windows in Zoom](img/windowsZoomReactParticipant.png){fig-alt="Zoom bar on Windows, showing buttons, from left to right, audio, video, share, react (a heart outline that is slightly tilted to the right), participants, more, and leave"}
+
+- React is a heart icon
+  - This button disappears when you share your screen, so you will not be able to see it while you are presenting
+- Ask learners to use the "raise hand" reaction as it stays in place, unlike the emoji reactions.
+- Compactly viewed via "Participants" panel (versus gallery of faces)
+
+
 ## Big check-ins
 
 - Continue to use [general](https://carpentries.org/blog/2020/03/tips-for-teaching-online/) "What questions do you have?" and "can I clarify anything or re-explain something?" with longer pauses
@@ -82,20 +94,8 @@ format: html
 
 ## Practice being co-host
 
-- Lower hands
-- Assign people to breakout room
-- See who's messaging you private vs everyone
-
-## Sticky notes = "raise hand"
-
-![What the react button looks like for non-hosts on Mac OS in Zoom](img/macZoomReactParticipant.png){fig-alt="Zoom bar on Mac, showing buttons, from left to right: audio, video, participants, chat, react (a heart outline), share, more, and leave"}
-
-![What the react button looks like for non-hosts on Windows in Zoom](img/windowsZoomReactParticipant.png){fig-alt="Zoom bar on Windows, showing buttons, from left to right, audio, video, share, react (a heart outline that is slightly tilted to the right), participants, more, and leave"}
-
-- React is a heart icon
-  - This button disappears when you share your screen, so you will not be able to see it while you are presenting
-- Ask learners to use the "raise hand" reaction as it stays in place, unlike the emoji reactions.
-- Compactly viewed via "Participants" panel (versus gallery of faces)
+- Lower hands ("clear all feedback" only available to hosts and co-hosts)
+- Find the "invite to share screen" option which is sometimes available
 
 ## Common problems
 
